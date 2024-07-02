@@ -1,0 +1,20 @@
+{
+  "name": "mintable-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@synthetixio/synpress": "^3.7.3",
+    "@types/node": "^20.14.2",
+    "dotenv": "^16.4.5"
+  },
+  "dependencies": {
+    "@tenkeylabs/dappwright": "^2.8.4",
+    "node-fetch": "^3.3.2"
+  }
+}
